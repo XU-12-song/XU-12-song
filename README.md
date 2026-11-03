@@ -46,6 +46,7 @@ const me = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Wikidot](https://img.shields.io/badge/Wikidot-000000?style=flat-square&logo=wikipedia&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-000000?style=flat-square&logo=vim&logoColor=white)
 
 ---
 
